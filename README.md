@@ -1,2 +1,2 @@
 # Talentio
-All the programs are asked in Talentio program
+All the programs that are asked in Talentio program. Most, not all ofcourse!
